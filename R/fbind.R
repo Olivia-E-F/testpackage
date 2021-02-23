@@ -1,10 +1,10 @@
 #' Concatenate levels of two Factors
 #'
-#' @param factor
-#' @param factor
+#' @param a factor
+#' @param b factor
 #'
 #' @return
-#' @export
+#' @export fbind
 #'
 #' @examples
 fbind <- function(a, b) {
